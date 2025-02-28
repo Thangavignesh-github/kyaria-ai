@@ -12,8 +12,7 @@ AI Career Coach is a **full-stack AI-powered career guidance platform** built wi
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/piyush-eon/ai-career-coach.git
-cd ai-career-coach
+git clone https://github.com/Thangavignesh-github/kyaria-ai.git
 ```
 
 ### 2️⃣ Install Dependencies
